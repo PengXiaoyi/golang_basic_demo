@@ -15,3 +15,5 @@ pkg/
 
 # IDE
 .idea/
+
+dat*
