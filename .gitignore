@@ -17,3 +17,6 @@ pkg/
 .idea/
 
 dat*
+/src/sean/bytedance/
+/go.mod
+/go.sum
