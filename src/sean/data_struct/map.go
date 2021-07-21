@@ -29,3 +29,12 @@ func main() {
 	n := map[string]int{"foo": 1, "bar": 2}
 	fmt.Println("map:", n)
 }
+
+// 错误示例
+type info struct {
+	result int
+}
+
+func work() (int, error) {
+	return 3, nil
+}
