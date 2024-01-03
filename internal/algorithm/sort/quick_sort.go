@@ -1,10 +1,9 @@
-package main
+package sort
 
 type quickSort struct {
 }
 
 func (s quickSort) sort(nums []int) []int {
-
 	return nums
 }
 
